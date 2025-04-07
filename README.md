@@ -37,13 +37,13 @@ Achieved accuracy ranging from 51% to 64% across epochs.
 Built using Qt Designer and PyQt6.
 Features: Book search, detailed book info, review submission, and real-time sentiment prediction.
 
-├── data/                   # Dataset files (Tiki Books Dataset)
-├── src/                    # Source code
-│   ├── preprocessing.py    # Data cleaning and preprocessing scripts
-│   ├── model.py            # PhoBERT model training and evaluation
-│   └── ui/                 # UI implementation (PyQt6)
-├── README.md               # Project overview (this file)
-└── docs/                   # Full report and documentation
+├── data/                   # Dataset files (Tiki Books Dataset) <br>
+├── src/                    # Source code<br>
+│   ├── preprocessing.py    # Data cleaning and preprocessing scripts<br>
+│   ├── model.py            # PhoBERT model training and evaluation<br>
+│   └── ui/                 # UI implementation (PyQt6)<br>
+├── README.md               # Project overview (this file)<br>
+└── docs/                   # Full report and documentation<br>
 
 #### Key Features
 Sentiment Classification: Analyzes reviews as positive, neutral, or negative using PhoBERT.
